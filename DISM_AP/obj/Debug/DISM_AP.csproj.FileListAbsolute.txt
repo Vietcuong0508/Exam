@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\DISM_AP\DISM_AP\bin\Debug\DISM_AP.exe
+C:\Users\Admin\RiderProjects\DISM_AP\DISM_AP\bin\Debug\DISM_AP.pdb
+C:\Users\Admin\RiderProjects\DISM_AP\DISM_AP\obj\Debug\DISM_AP.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\DISM_AP\DISM_AP\obj\Debug\DISM_AP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\DISM_AP\DISM_AP\obj\Debug\DISM_AP.exe
+C:\Users\Admin\RiderProjects\DISM_AP\DISM_AP\obj\Debug\DISM_AP.pdb
